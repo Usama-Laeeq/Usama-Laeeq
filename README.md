@@ -9,7 +9,7 @@
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=usama-laeeq)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Awesome Mobile Application Projects**
 
